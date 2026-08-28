@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Frontend"
+  short_description: "Build accessible React UI from product designs"
+  default_prompt: "Implement this interface as accessible, reusable React components."

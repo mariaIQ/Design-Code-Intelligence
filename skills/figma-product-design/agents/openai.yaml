@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Product Design"
+  short_description: "Design production-ready Figma screens and systems"
+  default_prompt: "Turn this product need into a production-ready Figma design."

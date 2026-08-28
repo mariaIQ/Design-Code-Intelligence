@@ -1,0 +1,18 @@
+{
+  "name": "design-code-intelligence",
+  "version": "0.1.0",
+  "description": "Evidence-led product design, responsible AI, Figma and React workflows for Codex Work.",
+  "author": {
+    "name": "Maria Iqbal"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design Code Intelligence",
+    "shortDescription": "Design intelligence from Figma to React.",
+    "longDescription": "Turn evidence and product constraints into accessible Figma systems, production React interfaces, governed AI decisions and credible leadership narratives.",
+    "developerName": "Maria Iqbal",
+    "category": "Productivity",
+    "capabilities": ["Figma", "React frontend", "Responsible AI", "Design systems", "Research synthesis"],
+    "defaultPrompt": "Turn this product problem into an evidence-led Figma design and accessible React implementation."
+  }
+}
